@@ -3,11 +3,7 @@
 A small RPG-style browser game built with JavaScript.  
 Fight monsters, level up, and defeat the mighty dragon!
 
-## 🌐 Try it Online
 
-[🎮 Play Dragon Repeller](https://zakarya-chaib.github.io/Dragon-Repeller/)
-
-## ✍️ Author
 
 - Created by **Zakarya Chaib**
 - GitHub: [@zakarya-chaib](https://github.com/zakarya-chaib)
