@@ -5,12 +5,12 @@ Fight monsters, level up, and defeat the mighty dragon!
 
 ## 🌐 Try it Online
 
-[🎮 Play Dragon Repeller](https://chaib-0x7.github.io/Dragon-Repeller/)
+[🎮 Play Dragon Repeller](https://zakarya-chaib.github.io/Dragon-Repeller/)
 
 ## ✍️ Author
 
 - Created by **Zakarya Chaib**
-- GitHub: [@chaib-0x7](https://github.com/chaib-0x7)
+- GitHub: [@zakarya-chaib](https://github.com/zakarya-chaib)
 
 ## 🧩 Notes
 
