@@ -12,7 +12,7 @@ body {
   max-width: 500px;
   max-height: 400px;
   background-color: #ffffff;
-  color: #ffffff;
+  color: #000000;
   margin: 30px auto 0px;
   padding: 10px;
 }
@@ -42,4 +42,17 @@ button {
   background-color: #feac32;
   background-image: linear-gradient(#fecc4c, #ffac33);
   border: 3px solid #feac32;
+}
+
+@media (max-width: 600px) {
+  #game {
+    width: 90%;
+    padding: 10px;
+  }
+
+  button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+  }
 }
